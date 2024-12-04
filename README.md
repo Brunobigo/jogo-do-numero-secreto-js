@@ -1,12 +1,20 @@
-<h1 align="center">
+<div align="center">
 
   <img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" alt="beecrowd" title="beecrowd" width="162">
 
   </br>
   </br>
+
+</div>
+
+<h1 align="center">
   
   DESAFIO DE LÓGICA DO JOGO DO NÚMERO SECRETO EM JAVASCRIPT
-  
+
+</h1>
+
+<h1 align="center">
+
   <a href="https://www.w3schools.com/html/"><img src="https://img.shields.io/badge/HTML5-white?style=flat&logo=html5&logoColor=white&labelColor=%23E34F26&color=%23E34F26" alt="static badge html5"/></a>
   <a href="https://www.w3schools.com/Css/"><img src="https://img.shields.io/badge/CSS3-white?style=flat&logo=css3&logoColor=white&labelColor=%231572B6&color=%231572B6" alt="static badge html5"/></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction"><img src="https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript&logoColor=white&labelColor=%23cba417&color=%23cba417" alt="static badge javascript"/></a>
