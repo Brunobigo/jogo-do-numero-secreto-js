@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" alt="beecrowd" title="beecrowd" width="162">
+  <img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" alt="alura" title="alura" width="162">
 
   </br>
   </br>
