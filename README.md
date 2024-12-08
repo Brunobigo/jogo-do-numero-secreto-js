@@ -39,7 +39,9 @@
 
 ---
 
-## Índice
+<details>
+
+<summary><h2>Índice</h2></summary>
 
 - [Título](#DESAFIO-DE-LÓGICA-DO-JOGO-DO-NÚMERO-SECRETO-EM-JAVASCRIPT)
 - [Introdução](#Introdução)
@@ -50,11 +52,13 @@
 - [Desenvolvedor](#Desenvolvedor)
 - [Contatos e redes sociais](#CONTATOS-E-REDES-SOCIAIS)
 
+</details>
+
 ---
 
 ## Introdução
 
-Bem-vindo ao repositório dedicado ao desafio de lógica do curso [Lógica de programação: praticando com desafios](https://cursos.alura.com.br/course/logica-programacao-praticando-desafios), aula [Projeto sorteador de números](https://cursos.alura.com.br/course/logica-programacao-praticando-desafios/task/139821) da [Alura!](https://www.alura.com.br) 🚀
+Bem-vindo ao repositório dedicado ao desafio de lógica do curso [Lógica de programação: praticando com desafios](https://cursos.alura.com.br/course/logica-programacao-praticando-desafios), aula [Projeto sorteador de números](https://cursos.alura.com.br/course/comecando-programacao-carreira-primeiros-passos/task/171843) da [Alura!](https://www.alura.com.br) 🚀
 
 Este repositório contém a resolução de problemas propostos durante o curso, abordando conceitos fundamentais de lógica de programação. Além de apresentar soluções otimizadas e comentadas, este projeto serve como parte do meu portfólio, demonstrando habilidades práticas em resolver desafios de forma eficiente e estruturada.
 
@@ -97,11 +101,10 @@ Caso utilize outra IDE, verifique os comandos nescessários da sua IDE.
 
 ## Exemplo de código encontrado no repositório 
 
-**Javascript** <img src="https://cdn.simpleicons.org/javascript/000/F7DF1E" alt="Node" align=left width=24>
+**Javascript** <img src="https://cdn.simpleicons.org/javascript/000/F7DF1E" alt="logo Javascript" align=left width=24>
 
 ```js
 function gerarNumeroAleatorio() {
-
     let numeroEscolhido = parseInt(Math.random() * numeroLimite + 1);  
     let quantidadeDeElementosNaLista = listaDeNumerosSorteados.length;
 
@@ -116,6 +119,7 @@ function gerarNumeroAleatorio() {
         return numeroEscolhido;
     }
 }
+
 ```
 
 ---
