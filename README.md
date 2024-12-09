@@ -58,11 +58,11 @@
 
 ## Introdução
 
-Bem-vindo ao repositório dedicado ao desafio de lógica do curso [Lógica de programação: praticando com desafios](https://cursos.alura.com.br/course/logica-programacao-praticando-desafios), aula [Projeto sorteador de números](https://cursos.alura.com.br/course/comecando-programacao-carreira-primeiros-passos/task/171843) da [Alura!](https://www.alura.com.br) 🚀
+Bem-vindo ao repositório dedicado ao desafio de lógica do curso [Lógica de programação: praticando com desafios](https://cursos.alura.com.br/course/logica-programacao-praticando-desafios), aula [Jogo do número secreto](https://cursos.alura.com.br/course/comecando-programacao-carreira-primeiros-passos/task/171843) da [Alura!](https://www.alura.com.br) 🚀
 
 Este repositório contém a resolução de problemas propostos durante o curso, abordando conceitos fundamentais de lógica de programação. Além de apresentar soluções otimizadas e comentadas, este projeto serve como parte do meu portfólio, demonstrando habilidades práticas em resolver desafios de forma eficiente e estruturada.
 
-- [Clique aqui para ser redirecionado ao site da aplicação](https://jogo-do-numero-secreto-js-zeta.vercel.app/)
+- [👾 **Clique aqui para ser redirecionado ao site da aplicação** 👾](https://jogo-do-numero-secreto-js-zeta.vercel.app/)
 
 **Objetivo**
 - Consolidar conhecimentos adquiridos no curso.
